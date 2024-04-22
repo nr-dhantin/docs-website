@@ -163,7 +163,7 @@ pages:
           - title: Elasticsearch integration
             path: /docs/infrastructure/host-integrations/host-integrations-list/elasticsearch/elasticsearch-integration
           - title: Envoy integration
-            path: /docs/infrastructure/host-integrations/host-integrations-list/envoy-integration  
+            path: /docs/infrastructure/host-integrations/host-integrations-list/envoy-integration
           - title: F5 integration
             path: /docs/infrastructure/host-integrations/host-integrations-list/f5-monitoring-integration
           - title: HAProxy integration
@@ -204,6 +204,8 @@ pages:
             path: /docs/infrastructure/host-integrations/host-integrations-list/nvidia-gpu-integration
           - title: NVIDIA DCGM integration
             path: /docs/infrastructure/host-integrations/host-integrations-list/nvidia-dcgm-integration
+          - title: NVIDIA Triton integration
+            path: /docs/infrastructure/host-integrations/host-integrations-list/nvidia-triton-integration
           - title: Openstack Controller integration
             path: /docs/infrastructure/host-integrations/host-integrations-list/openstack-controller-integration
           - title: Oracle Database integration
@@ -245,7 +247,7 @@ pages:
           - title: Varnish Cache integration
             path: /docs/infrastructure/host-integrations/host-integrations-list/varnish-cache-monitoring-integration
           - title: VMware vSphere integration
-            path: /docs/infrastructure/host-integrations/host-integrations-list/vmware-vsphere-monitoring-integration
+            path: /install/vsphere
           - title: Windows services integration
             path: /docs/infrastructure/host-integrations/host-integrations-list/windows-services-integration
       - title: On-host integration technical details
@@ -517,7 +519,7 @@ pages:
           - title: ElastiCache integration
             path: /docs/infrastructure/amazon-integrations/aws-integrations-list/aws-elasticache-monitoring-integration
           - title: Elasticsearch integration
-            path: /docs/infrastructure/amazon-integrations/aws-integrations-list/aws-elasticsearch-monitoring-integration
+            path: /install/elasticsearch
           - title: Elastic Transcoder integration
             path: /docs/infrastructure/amazon-integrations/aws-integrations-list/amazon-elastictranscoder-monitoring-integration
           - title: ELB (Classic) integration
